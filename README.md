@@ -32,6 +32,16 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 | **Dados & BI** | Microsoft Power BI, Fundamentos de Data Science |
 
 
+
+## Em Aprendizagem
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
+
+</p>
+
+
+
 ### 📈 Estatísticas do GitHub
 
 <!-- O serviço 'github-readme-stats' irá gerar as imagens dinamicamente. -->
