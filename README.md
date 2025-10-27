@@ -95,5 +95,5 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 ##  Minhas Contribuições Animadas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ailer20/Ailer20/main/dist/github-contribution-grid-snake.gif" alt="Snake Game nas Contribuições do GitHub" />
+  <img src="https://raw.githubusercontent.com/Ailer20/Ailer20/gh-pages/github-contribution-grid-snake.gif" alt="Snake Game nas Contribuições do GitHub" />
 </p>
