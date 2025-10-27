@@ -68,13 +68,13 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 
 
 ### 📈 Estatísticas do GitHub
-
 <!-- O serviço 'github-readme-stats' irá gerar as imagens dinamicamente. -->
 
-<!-- 1. BADGE DE ESTATÍSTICAS GERAIS (Commits, Stars, Issues) -->
-[![Ailer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ailer20&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
+<!-- 1. BADGE DE ESTATÍSTICAS GERAIS (Escondendo o círculo de linguagem) -->
+[![Ailer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ailer20&show_icons=true&theme=radical&hide=language )](https://github.com/anuraghazra/github-readme-stats )
 
 <!-- 2. BADGE DE LINGUAGENS MAIS USADAS (Com a exclusão de C, C++ e Cython) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailer20&layout=compact&theme=radical&exclude_langs=C,C++,Cython )](https://github.com/anuraghazra/github-readme-stats )
+
 
 
