@@ -77,4 +77,17 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailer20&layout=compact&theme=radical&exclude_langs=C,C++,Cython )](https://github.com/anuraghazra/github-readme-stats )
 
 
+---
+### 🤝 Conecte-se Comigo
+
+<p align="left">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/ailer-pimentel-74534a2a6/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <!-- Email Badge -->
+  <a href="mailto:ailer.pimentel.work@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+</p>
 
