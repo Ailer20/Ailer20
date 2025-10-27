@@ -15,6 +15,7 @@ Atualmente, atuo como Assistente de Desenvolvedor de Software, aplicando minhas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" height="40"/>
 </p>
 
 ### 🛠️ Minha Stack Tecnológica
@@ -24,7 +25,7 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 | Categoria | Tecnologias Principais |
 | :--- | :--- |
 | **Back-end** | Python, Django, Django REST Framework, NodeJS |
-| **Front-end** | React, TypeScript, JavaScript, HTML5, CSS3 |
+| **Front-end** | React, JavaScript, HTML5, CSS3 |
 | **Banco de Dados** | SQL (PostgreSQL, MySQL), Modelagem de Dados |
 | **Cloud & DevOps** | AWS (Deploy, Gerenciamento de Serviços), Git, GitHub |
 | **Dados & BI** | Microsoft Power BI, Fundamentos de Data Science |
