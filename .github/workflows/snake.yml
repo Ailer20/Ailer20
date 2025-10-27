@@ -6,6 +6,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions: # <--- Adicionado o bloco de permissões
+  contents: write # <--- Permissão de escrita para o token do GitHub
+
 jobs:
   generate:
     runs-on: ubuntu-latest
