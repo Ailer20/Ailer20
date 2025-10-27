@@ -23,12 +23,8 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 
 ### 📈 Estatísticas do GitHub
 
-Você pode adicionar badges dinâmicos para mostrar suas estatísticas e linguagens mais usadas. Para isso, você precisará de ferramentas como o [GitHub Stats](https://github.com/anuraghazra/github-readme-stats ) e [Top Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card ).
+<!-- O serviço 'github-readme-stats' irá gerar as imagens dinamicamente. -->
+[![Ailer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ailer20&show_icons=true&theme=radical  )](https://github.com/anuraghazra/github-readme-stats  )
 
-**Exemplo de como adicionar suas estatísticas:**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailer20&layout=compact&theme=radical  )](https://github.com/anuraghazra/github-readme-stats  )
 
-```markdown
-<!-- Substitua 'Ailer20' pelo seu nome de usuário -->
-[![Ailer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ailer20&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailer20&layout=compact&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
