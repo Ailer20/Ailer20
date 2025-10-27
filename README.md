@@ -20,16 +20,6 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 | **Cloud & DevOps** | AWS (Deploy, Gerenciamento de Serviços), Git, GitHub |
 | **Dados & BI** | Microsoft Power BI, Fundamentos de Data Science |
 
----
-
-### 🚀 Projetos em Destaque
-
-Confira alguns dos meus projetos mais relevantes que demonstram minhas habilidades Full Stack. **(Lembre-se de adicionar links reais para seus repositórios aqui!)**
-
-*   **[Nome do Projeto 1]:** Breve descrição do projeto e das tecnologias utilizadas (Ex: React, Django, AWS).
-*   **[Nome do Projeto 2]:** Breve descrição do projeto e das tecnologias utilizadas (Ex: NodeJS, Express, MongoDB).
-
----
 
 ### 📈 Estatísticas do GitHub
 
