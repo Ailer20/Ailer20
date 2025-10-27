@@ -7,7 +7,6 @@ Sou um profissional em formação em Engenharia de Computação com experiência
 Atualmente, atuo como Assistente de Desenvolvedor de Software, aplicando minhas habilidades em um ambiente de produção real.
 
 ---
----
 ### 🛠️ Minha Stack Tecnológica
 
 Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguagens que me permitem atuar em todas as camadas de uma aplicação:
@@ -22,36 +21,49 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 
 ---
 
-## 🚀 Ferramentas e Tecnologias em Destaque
+## 🚀 Tecnologias Atuais
 
 ### Back-end, Banco de Dados e Cloud
 
 <p align="left">
-  <!-- Backend -->
+  <!-- Back-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/> <!-- Adicionado NodeJS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" width="40" height="40" />
-  <!-- Database -->
+  <!-- Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
   <!-- Cloud/DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" height="40"/>
 </p>
 
-### Front-end e Linguagens
+### Front-end Base
 
 <p align="left">
-  <!-- Front-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40"/>
+  <!-- Front-end Base -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
+---
 
+## 📚 Em Aprendizagem Contínua
 
+### Back-end e Ferramentas
+
+<p align="left">
+  <!-- Back-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/>
+</p>
+
+### Front-end Moderno
+
+<p align="left">
+  <!-- Front-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40"/>
+</p>
 
 
 ### 📈 Estatísticas do GitHub
