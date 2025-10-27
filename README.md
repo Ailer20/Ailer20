@@ -1,4 +1,4 @@
-# Olá, eu sou Ailer Pimentel! 👋
+# Olá, eu sou Ailer Pimentel! 
 
 ### Desenvolvedor Full Stack | Python (Django) & JavaScript (React)
 
@@ -7,7 +7,7 @@ Sou um profissional em formação em Engenharia de Computação com experiência
 Atualmente, atuo como Assistente de Desenvolvedor de Software, aplicando minhas habilidades em um ambiente de produção real.
 
 ---
-### 🛠️ Minha Stack Tecnológica
+###  Minha Stack Tecnológica
 
 Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguagens que me permitem atuar em todas as camadas de uma aplicação:
 
@@ -21,7 +21,7 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 
 ---
 
-## 🚀 Tecnologias Atuais
+##  Tecnologias Atuais
 
 ### Back-end, Banco de Dados e Cloud
 
@@ -48,7 +48,7 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 
 ---
 
-## 📚 Em Aprendizagem Contínua
+##  Em Aprendizagem Contínua
 
 ### Back-end e Ferramentas
 
@@ -67,7 +67,7 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
 
 
 
-### 📈 Estatísticas do GitHub
+### Estatísticas do GitHub
 <!-- O serviço 'github-readme-stats' irá gerar as imagens dinamicamente. -->
 
 <!-- 1. BADGE DE ESTATÍSTICAS GERAIS (Escondendo o círculo de linguagem) -->
