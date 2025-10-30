@@ -91,9 +91,25 @@ Como Desenvolvedor Full Stack, trabalho com um conjunto de ferramentas e linguag
   </a>
 </p>
 
+
+---
+
+## 🚀 Meu Portfólio
+
+Para uma visão detalhada dos meus projetos e da minha jornada como desenvolvedor, acesse meu portfólio completo.
+
+<p align="left">
+  <a href="https://ailerfolio-jtwjprcg.manus.space/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Link para o Portfólio">
+  </a>
+</p>
+
+
 ---
 ##  Minhas Contribuições Animadas
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ailer20/Ailer20/gh-pages/github-contribution-grid-snake.gif" alt="Snake Game nas Contribuições do GitHub" />
 </p>
+
+
